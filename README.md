@@ -27,6 +27,7 @@ To view the landing page and explore the projects, simply open the `index.html` 
 
 - HTML
 - CSS
+- JAVASCRIPT
 - Google Fonts (Montserrat)
 
 ## Author
